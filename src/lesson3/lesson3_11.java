@@ -16,6 +16,7 @@ public class lesson3_11 {
         k = input.nextDouble();
         result = p + (-m + k - p);
         System.out.print("result=" + result);
+        System.out.println("New Test Line");
     }
 }
 
