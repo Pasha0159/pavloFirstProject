@@ -11,8 +11,8 @@ public class lesson3_10 {
         double n;
         double x = 6;
         double result;
-        System.out.print("введіть n=");
-        System.out.print("введіть x=");
+        System.out.print(" n=");
+        System.out.print(" x=");
         n = input.nextDouble();
         result = -(n-x)-x;
         System.out.print("result=" + result);
